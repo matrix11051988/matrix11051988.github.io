@@ -1,1 +1,104 @@
-Hi
+<html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="https://play-lh.googleusercontent.com/Sb8EfsBKIwrJr6eOmvtHhlsvq2JEMCAmenhhYfLeKTLFjH6_hsJwRfRF2YKDJPtK-Fo=s188-rw" type="image/x-icon">
+  <title>dev matrix</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+    body {
+        background: #000000;
+        color: #777777;
+        font-size: 14px;
+        line-height: 31px;
+        letter-spacing: 0;
+        font-weight: 400;
+        padding: 0;
+        margin: 0;
+    }
+    p,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        letter-spacing: 0px;
+        font-weight: normal;
+        position: relative;
+        font-weight: normal;
+        line-height: 1.8;
+        font-family: 'Noto Serif', serif;
+    }
+    .apps{
+        grid-template-columns: calc(100%/5) calc(100%/5) calc(100%/5) calc(100%/5) calc(100%/5);
+        padding: 10px 50px;
+        margin-top:50px;
+        display: grid;
+    }
+    .blur{
+      background: url('https://play-lh.googleusercontent.com/1wKrHdq6r9nrAcyn0RUHmHK3ImrBkqDdgs83ghUWwC-cpKhPcc1cQeyEsZ9WGN4fGjS9=w7680-h4320-rw');background-position: center;background-size: contain;height: 50%;width: 100%;position: absolute;display: block;filter: blur(8px);-webkit-filter: blur(8px);
+    }
+    .store-ico{
+      width: 120px;border-radius: 100px;margin: 13% 0px 5px 0px;border: 3px solid #ffffff30;
+      transition: all .2s ease-in-out;
+    }
+    .app{
+      transition: all .2s ease-in-out;
+    }
+    .store-ico:hover, .app:hover {
+        transform: scale(1.1);
+        cursor:pointer;
+    }
+    @media screen and (max-width: 640px){
+        .apps{
+            grid-template-columns: calc(100%/2) calc(100%/2);
+            padding: 10px 10px;
+            margin-top:30px;
+            display: grid;
+        }
+        .blur{
+            height: 25%;
+        }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="blur"></div>
+  <div style="position: absolute;display: block;width: 100%;text-align: center;">
+    <img class="store-ico" src="https://play-lh.googleusercontent.com/Sb8EfsBKIwrJr6eOmvtHhlsvq2JEMCAmenhhYfLeKTLFjH6_hsJwRfRF2YKDJPtK-Fo=s188-rw">
+    <h1 style="text-align: center;margin: 5px;color:#fff;">
+      dev matrix
+    </h1>
+    <div class="apps">
+      
+      <a target="_blank" href="https://play.google.com/store/apps/details?id=ks.apps.makeupasmr" style="text-decoration: none;">
+        <div class="app" style="text-align: center;display: block;padding: 0 30px;">
+          <img src="https://lh3.googleusercontent.com/tVXcUbxtgqelwJUHnDDWrEVR5jiAS7_pamS5BMXwZTio1r86XHy_C6fvc_UTAFRuRb2p" style="width: 100%;border-radius: 50px;border: 3px solid #ffffff30;">
+            <h3 style="text-align: center;margin: 10px 0;color:#fff;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;">Makeup salon: Makeover ASMR</h3>
+        </div>
+      </a>
+      
+      <a target="_blank" href="https://play.google.com/store/apps/details?id=ks.apps.joyingstep" style="text-decoration: none;">
+        <div class="app" style="text-align: center;display: block;padding: 0 30px;">
+          <img src="https://lh3.googleusercontent.com/nCWvOUjz0TwtCnQtryGx7XANox8QxYOsvaNvd7VNgPQhYq6ZJ2dAqZ0Qm6M4ApBEhp0" style="width:100%;border-radius: 50px;border: 3px solid #ffffff30;">
+            <h3 style="text-align: center;margin: 10px 0;color:#fff;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;">Joying Step</h3>
+        </div>
+      </a>
+      
+      <a target="_blank" href="https://play.google.com/store/apps/details?id=ks.apps.hotdogbush" style="text-decoration: none;">
+        <div class="app" style="text-align: center;display: block;padding: 0 30px;">
+          <img src="https://lh3.googleusercontent.com/EjKPA6lPfveEmayTKrrnUlsmuLCYhPLzS7bDdHuabKLmg63HK8xhSav7r4jdldWZvWQo" style="width:100%;border-radius: 50px;border: 3px solid #ffffff30;">
+            <h3 style="text-align: center;margin: 10px 0;color:#fff;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;">Hot Dog Bush</h3>
+        </div>
+      </a>
+      
+    </div>
+  </div>
+
+
+
+
+
+
+</body></html>
