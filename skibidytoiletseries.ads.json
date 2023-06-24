@@ -13,10 +13,10 @@
             
             "unity_game_id": "5103649",
             
-            "admob_ban": "ca-app-pub-2227727306257758/4342816838",
-            "admob_native" : "ca-app-pub-2227727306257758/7828504380",
-            "admob_int": "ca-app-pub-2227727306257758/2613451121",
-            "admob_rewarded": "ca-app-pub-2227727306257758/3171305589",
+            "admob_ban": "ca-app-pub-2227727306257758/8242832113",
+            "admob_native" : "ca-app-pub-2227727306257758/6773837771",
+            "admob_int": "ca-app-pub-2227727306257758/2625094805",
+            "admob_rewarded": "ca-app-pub-2227727306257758/6676020454",
 
             "yandex_ban" : "R-M-2193310-1",
             "yandex_native" : "R-M-2193310-2",
@@ -47,10 +47,10 @@
 
             "orientation": "portrait",
 
-            "game_name": "Joying Step",
+            "game_name": "Skibidy Toilet Series",
             "game_cover": "https://lh3.googleusercontent.com/nCWvOUjz0TwtCnQtryGx7XANox8QxYOsvaNvd7VNgPQhYq6ZJ2dAqZ0Qm6M4ApBEhp0",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
-            "game_link": "https://yandex.com/games/app/166811?utm_campaign=en-tier2_games_brand_all_google_search%7C18159030941&utm_medium=search&utm_source=google&utm_term=yandex+games&utm_content=k50id%7Ckwd-928932490765%7Ccid%7C18159030941%7Caid%7C618388209502%7Cgid%7C141297883875%7Cpos%7C%7Csrc%7Cg_%7Cdvc%7Cc%7Creg%7C1009987%7Crin%7C%7C#app-id=166811&catalog-session-uid=catalog-5ef34346-3350-557d-aad6-21fbca51ebcb-1687337323708-6ef5&rtx-reqid=10418279921193995221&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
+            "game_link": "https://yandex.com/games/app/235178?utm_campaign=en-tier2_games_brand_all_google_search%7C18159030941&utm_medium=search&utm_source=google&utm_term=yandex+games&utm_content=k50id%7Ckwd-928932490765%7Ccid%7C18159030941%7Caid%7C618388209502%7Cgid%7C141297883875%7Cpos%7C%7Csrc%7Cg_%7Cdvc%7Cc%7Creg%7C1009987%7Crin%7C%7C#app-id=235178&catalog-session-uid=catalog-5ef34346-3350-557d-aad6-21fbca51ebcb-1687337329981-03ca&rtx-reqid=10418279921193995221&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
