@@ -169,7 +169,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "The Train",
             "ico" : "https://lh3.googleusercontent.com/DS_lNtQ_0bIjTV9aLpn5Cbwxj4BDpv4fi9FMmbsVMJZk4PISHyDcQhUtRVtZBjJWSmh2",
@@ -218,7 +218,7 @@
             "bg" : "#673AB7"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "active_reward" : "false",
             "name" : "More",
             "ico" : "https://9asso.github.io/published/imgs/btmore.png",
